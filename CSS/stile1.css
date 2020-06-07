@@ -1,0 +1,149 @@
+html {
+    background-color: black;
+}
+.body1 {
+    height: 3170px;
+}
+.body2 {
+ height: 2000px;
+}
+.body3 {
+ height: 3100px;
+}
+.body4 {
+ height: 2750px;
+}
+.body5 {
+height: 2130px;
+}
+.map {
+    margin-left: 640px; margin-right: 300px; margin-top: -480px;
+}
+footer {
+    height: 200px;
+}
+ul {
+    list-style: none; 
+    margin: 0; 
+    padding-left: 0; 
+    margin-top:25px; 
+    background:#FF4444; 
+    height: 50px; 
+  }
+  .men {
+    text-decoration: none; 
+    background:#FF4444; 
+    color:#fff; 
+    padding:0px 15px; 
+    font-family: arial; 
+    line-height:50px; 
+    display: block; 
+    border-right: 1px solid #F36262; 
+    -moz-transition: all 0.3s 0.01s ease; 
+    -o-transition: all 0.3s 0.01s ease;
+    -webkit-transition: all 0.3s 0.01s ease;
+  }
+  a:hover {
+    background:#D43737;
+  }
+  li {
+    float:left; 
+  }
+  .imgcent {
+      margin-right: 400px; margin-left: 400px;
+  }
+  .zag {
+    font-family:cursive; font-size:3em; color: white; margin-left: 30px; text-shadow: #202327 1px 1px 0, #34373b 2px 2px 0, 
+    #383a3d 3px 3px 0, #353a41 4px 4px 0, 
+    #33373b 5px 5px 0;
+  }
+  .bigzag{
+    color: white; margin-left: 400px; margin-right: 400px;     
+    font: bold 5em Arial, sans-serif;
+    color: #f8f8f8;
+    text-shadow: #202327 1px 1px 0, #34373b 2px 2px 0, 
+                 #383a3d 3px 3px 0, #353a41 4px 4px 0, 
+                 #33373b 5px 5px 0;
+  }
+ .pref {
+    font-size:0.5em; vertical-align:top; color: white;
+}
+.zagtext {
+    color: white; font-family:cursive;
+}
+.zagtext2 {
+    margin-left: 40px; margin-right: 40px; color: white; font-family:cursive; font-size: 2em; text-shadow: rgb(0, 0, 0) 1px 1px 0, rgb(0, 0, 0) -1px -1px 0, 
+    rgb(0, 0, 0) -1px 1px 0, rgb(0, 0, 0) 1px -1px 0;
+}
+.zagtextlil {
+    margin-left: 40px; margin-right: 40px; color: white; font-family:cursive; font-size: 1.5em; text-shadow: rgb(0, 0, 0) 1px 1px 0, rgb(0, 0, 0) -1px -1px 0, 
+    rgb(0, 0, 0) -1px 1px 0, rgb(0, 0, 0) 1px -1px 0;
+}
+.imgl {
+    margin-left: 100px;
+}
+.imgr {
+    margin-right: 100px;
+}
+.stroke {
+    font: 2em Arial, sans-serif;
+    color: white;
+    text-shadow: rgb(0, 0, 0) 1px 1px 0, rgb(0, 0, 0) -1px -1px 0, 
+                 rgb(0, 0, 0) -1px 1px 0, rgb(0, 0, 0) 1px -1px 0;
+   }
+   .stroket {
+       margin-left: 30px;
+    font: bold 3em Arial, sans-serif;
+    color: #f8f8f8;
+    text-shadow: #202327 1px 1px 0, #34373b 2px 2px 0, 
+                 #383a3d 3px 3px 0, #353a41 4px 4px 0, 
+                 #33373b 5px 5px 0;
+   }
+   .strokezag {
+    font: 2em Arial, sans-serif;
+    color: white;
+    text-shadow: rgb(219, 45, 45) 1px 1px 0, rgb(221, 63, 63) -1px -1px 0, 
+                 rgb(247, 94, 83) -1px 1px 0, rgb(214, 63, 63) 1px -1px 0;
+   }
+.fotertext {
+    height: 100%;
+    display: flex;
+    align-items: flex-end;
+    font:Arial, sans-serif;
+    color: white;
+    text-shadow: rgb(0, 0, 0) 1px 1px 0, rgb(0, 0, 0) -1px -1px 0, 
+                 rgb(0, 0, 0) -1px 1px 0, rgb(0, 0, 0) 1px -1px 0;
+}
+.otsr {margin-right: 250px;
+    font: 2em Arial, sans-serif;
+    color: white;
+    text-shadow: rgb(0, 0, 0) 1px 1px 0, rgb(0, 0, 0) -1px -1px 0, 
+                 rgb(0, 0, 0) -1px 1px 0, rgb(0, 0, 0) 1px -1px 0;}
+.otsl {margin-left: 250px;
+    font: 2em Arial, sans-serif;
+    color: white;
+    text-shadow: rgb(0, 0, 0) 1px 1px 0, rgb(0, 0, 0) -1px -1px 0, 
+                rgb(0, 0, 0) -1px 1px 0, rgb(0, 0, 0) 1px -1px 0;}
+.bot {
+margin-top: 170px;
+margin-left: 10px
+}
+.bot2 {
+margin-top: 70px;
+margin-left: 10px
+}
+.prof {
+    text-decoration: none;
+    font: 1em Arial, sans-serif;
+    color: white;
+    text-shadow: rgb(0, 0, 0) 1px 1px 0, rgb(0, 0, 0) -1px -1px 0, 
+                 rgb(0, 0, 0) -1px 1px 0, rgb(0, 0, 0) 1px -1px 0;
+}
+.prof2 {
+    text-decoration: none;
+    font: 1.5em cursive;
+    color: white;
+    text-shadow: rgb(0, 0, 0) 1px 1px 0, rgb(0, 0, 0) -1px -1px 0, 
+                 rgb(0, 0, 0) -1px 1px 0, rgb(0, 0, 0) 1px -1px 0;
+    }
+.otst { height: 300px;}
